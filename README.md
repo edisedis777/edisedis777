@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/eddiebeloiudata**
 
-- ⚡ Fun fact **I like the color Red.**
+- ⚡ Fun fact **I speak several Languages and I am learning more. I also like the color Red.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
