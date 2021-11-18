@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ironhack Projects!**
 
-- 🌱 I’m currently learning **Python, Machine Learning Models, SQL, Pytorch**
+- 🌱 I’m currently learning **Machine Learning, SQL, Pytorch**
 
 - 📫 How to reach me **www.linkedin.com/in/eddiebeloiudata**
 
