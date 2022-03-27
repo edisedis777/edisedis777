@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate Data Analyst who loves to work on exiting Data Projects.</h3>
 
-- 🔭 I’m currently working on **My Portfolio!  (<a href="https://edbe777.github.io/eddiebeloiu/" target="blank">Link</a>)**
+- 🔭 I’m currently working on **My Portfolio and Projects! (see VIDEO below!)  (<a href="https://edbe777.github.io/eddiebeloiu/" target="blank">Link</a>)**
 
 - 🌱 I’m currently learning **Machine Learning, SQL, Pytorch, Seaborn, Databricks, DagsHub, Tableau, Azure**
 
