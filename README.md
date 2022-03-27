@@ -23,6 +23,4 @@
 https://user-images.githubusercontent.com/61211582/160288550-2251c14c-a9e2-4370-80ae-c77cf2e34925.mp4
 
 
-
-
-<img src="images/mee.png" width="350" title="RA">
+<img src="images/I.png" width="350" title="RA">
