@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-<h3 align="center">A passionate Data Analyst who loves to work on exiting Data Projects.</h3>
+<h3 align="center">I Love Data and Projects.</h3>
 
-- 🔭 I’m currently working on **My Portfolio and Projects! (see VIDEO below!)  (<a href="https://edbe777.github.io/eddiebeloiu/" target="blank">Link</a>)**
+- 🔭 I’m currently working on **My Projects! (see VIDEO below!)  (<a href="https://edbe777.github.io/eddiebeloiu/" target="blank">Link</a>)**
 
-- 🌱 I’m currently learning **Machine Learning, SQL, Pytorch, Seaborn, Databricks, DagsHub, Tableau, Azure**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **www.linkedin.com/in/eddiebeloiudata**
 
-- ⚡ Fun fact **I speak several Languages and I am learning more. I also like the color Red.**
+- ⚡ Fun fact **I like the color Red.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
