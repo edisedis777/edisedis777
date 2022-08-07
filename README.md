@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **www.linkedin.com/in/eddiebeloiudata**
+- 📫 How to reach me **Comments**
 
 - ⚡ Fun fact **I like the color Red.**
 
