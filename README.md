@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Projects! (see VIDEO below!)  (<a href="" target="blank">Link</a>)**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Python!**
 
 - 📫 How to reach me **Comments**
 
