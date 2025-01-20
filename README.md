@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">I Love Data.</h3>
 
-- 🔭 I’m currently working on **My Projects! (see VIDEO below!)**
+- 🔭 I’m currently working on: *My Projects*
 
-- 🌱 I’m currently learning **Python!**
+- 🌱 I’m currently learning *Python!*
 
-- 📫 How to reach me **Comments**
+- 📫 How to reach me *Comments*
 
-- ⚡ Fun fact **I like the color Red.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
