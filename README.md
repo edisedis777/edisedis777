@@ -28,7 +28,6 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/edisedis777/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/edisedis777"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:eddiebeloiu@gmail.com?subject=Hello%20Edis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blsnk"href="https://edis.pages.dev/"><img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
