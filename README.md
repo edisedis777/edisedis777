@@ -5,7 +5,7 @@
 
 <h2 align="center"> 🐱‍💻 Whoami</h2>
 <p align="center">
-  <samp>I'm a data engineer with a strong background in backend development and scalable data solutions. My experience has taught me that clear logic and meticulous execution are essential in building high-performance, reliable systems. My website: https://edis.pages.dev
+  <samp>I'm a bunch of stuff; Generally, I consider myself to be an introvert and I like to read. My website: https://edis.pages.dev
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=edisedis777" alt="https://github.com/edisedis777" />
