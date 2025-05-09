@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />&nbsp;&nbsp;
 </p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, HTML, JavaScript, Three.js, Fabric, SQLite, DuckDB, Git, Github, Apache, Azure.</p>
+<p align="center">TailwindCSS, Python, Docker, Kubernetes, HTML, JavaScript, Three.js, Fabric, SQLite, DuckDB, Apache, Azure.</p>
 
 
 <h2  align="center">📨 Reach me on</h2>
