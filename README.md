@@ -5,7 +5,7 @@
 
 <h2 align="center"> 🐱‍💻 Whoami</h2>
 <p align="center">
-  <samp>I'm a bunch of stuff; Generally, I consider myself to be an introvert and I like to read. My website: https://edis.pages.dev
+  <samp>Reserved INTJ who likes to read. Website: https://edis.pages.dev
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=edisedis777" alt="https://github.com/edisedis777" />
