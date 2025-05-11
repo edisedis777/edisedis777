@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Edis </h1>
+<h1 align="center"> Hi 👋 </h1>
 <div align="center">
   <img src="images/I.png" alt="header"/>
 </div>
