@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 </h1>
 <div align="center">
-  <img src="images/I.png" alt="header"/>
+  <img src="" alt="header"/>
 </div>
 
 <h2 align="center"> 🐱‍💻 Whoami</h2>
