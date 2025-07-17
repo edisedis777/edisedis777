@@ -1,7 +1,5 @@
 <h1 align="center"> Hi 👋 </h1>
-<div align="center">
-  <img src="" alt="header"/>
-</div>
+
 
 <h2 align="center"> 🐱‍💻 Whoami</h2>
 <p align="center">
