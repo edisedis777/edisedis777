@@ -3,7 +3,7 @@
 
 <h2 align="center"> 🐱‍💻 Whoami</h2>
 <p align="center">
-  <samp>Reserved INTJ who likes to read. Website: https://edis.pages.dev
+  <samp>Reserved INTJ who likes to read. 
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=edisedis777" alt="https://github.com/edisedis777" />
